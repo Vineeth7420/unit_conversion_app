@@ -1,6 +1,6 @@
 // javascript
 
-let count = 100
+let count = 50
 
 const countEl = document.getElementById('count')
 const lengthEl = document.getElementById('length')
